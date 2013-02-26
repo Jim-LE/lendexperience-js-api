@@ -3,8 +3,10 @@ lendexperience-js-sdk
 
 This is the official Javascript SDK for Lend Experience.
 
-````<script type="text/javascript"><br/>
-  	// Load the SDK Asynchronously<br/>
+````<script type="text/javascript">
+
+  	// Load the SDK Asynchronously
+  	
 		(function(d){
 			var js, id = "libs-le-1.1", ref = d.getElementsByTagName('script')[0];
 			if (d.getElementById(id)) {return;}
