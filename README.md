@@ -3,7 +3,8 @@ lendexperience-js-sdk
 
 This is the official Javascript SDK for Lend Experience.
 
-````<script type="text/javascript">
+````
+<script type="text/javascript">
 
   	// Load the SDK Asynchronously
   	
@@ -23,4 +24,5 @@ This is the official Javascript SDK for Lend Experience.
 				itemType:      1
 			})
 		};
-	</script>````
+</script>
+````
