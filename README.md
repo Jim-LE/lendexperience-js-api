@@ -35,7 +35,7 @@ is most likely verified.
 
 <h2>Content Widget</h2>
 
-The content widget provides a customizable stream to experiences, opportunities and requests posted on Lend Experience.
+The content widget provides a customizable stream of experiences, opportunities and questions that can be embedded directly into your site.
 To set-up the content widget place the following <DIV> where you would like the "content widget" to appear on your page:
 ````
 <div id="le-root">
