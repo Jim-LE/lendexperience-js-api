@@ -10,7 +10,7 @@ It is recommended that you place the code within the BODY tags, before all other
 
 You must provide your API Access Keys(appID and CommunityID) to establish a connection (Keys can be accessed in the API tools section of your
 Lend Experience admin page). Access to the API is restricted to verified domains. If you currently possess API Access Keys then your domain 
-has most likely been verified.
+is most likely verified.
 
 ````
 <script type="text/javascript">
