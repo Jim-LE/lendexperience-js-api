@@ -1,10 +1,15 @@
 lendexperience-js-sdk
 =====================
 
-This is the official Javascript SDK for Lend Experience.
+This is the official Javascript SDK for Lend Experience. At this time the SDK supports access to the "content widget."
 
-Getting started is fast and simple. Just copy and paste the code below into the HTML on your page. To improve performance it is
-recommended that you place the following into ...
+<h2>Content Widget</h2>
+
+Getting started is quick and easy. The API can be loaded asynchronously by copying and pasting the following code into the HTML on your page.
+It is recommended that you place the code within the <BODY> tags, at the top, before all other code with in the body.
+
+You must provide your appID and CommunityID to establish a connection (credentials can be accessed in the API tools section of your
+Lend Experience admin page).
 
 ````
 <script type="text/javascript">
