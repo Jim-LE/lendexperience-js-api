@@ -46,6 +46,9 @@ The "le-root" DIV is the container for the content widget. Once the API has been
 existence of the "le-root" DIV. It will then load the content widget inside of the "le-root" DIV. The "le-root" DIV
 can be styled, but keep in mind that the loaded "content widget" will have a minimum width of 300px.
 
+Live Example of the "Content Widget"
+<a href="https://lendexperience.com/widget/example">https://lendexperience.com/widget/example</a>
+
 Questions?
 Send an email to <a href="mailto:jim@lendexperience.com">jim@lendexperience.com</a>.
 
