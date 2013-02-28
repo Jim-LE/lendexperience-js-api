@@ -1,7 +1,7 @@
-lendexperience-js-sdk
+lendexperience-js-api
 =====================
 
-This is the official Javascript SDK for Lend Experience. At this time the SDK supports access to the "content widget."
+This is the official Javascript API for Lend Experience. At this time the API supports access to the "content widget."
 
 <h2>Content Widget</h2>
 
