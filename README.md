@@ -50,8 +50,8 @@ Live Example of the "Content Widget":<br/>
 <a href="https://lendexperience.com/widget/example">https://lendexperience.com/widget/example</a>
 
 <h2>Browser Compatibility</h2>
-The API and associated widgets are compatible with all major browsers. Here is a breakdown from initial versions to present versions:
-IE 6+, FireFox 1.0+, Google Chrome 1.0+, Safari 1.0+, Opera 8.5+
+The API and associated widgets are compatible with all major browsers. Here is a breakdown from initial compatible versions to present versions:
+IE 6+, FireFox 1.0+, Google Chrome 1.0+, Safari 1.0+, Opera 8.0+
 <h2>Thanks For Reading...</h2>
 Questions?
 Send an email to <a href="mailto:jim@lendexperience.com">jim@lendexperience.com</a>.
