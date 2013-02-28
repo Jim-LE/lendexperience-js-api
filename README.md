@@ -6,7 +6,7 @@ This is the official Javascript API for Lend Experience. At this time the API su
 <h2>Getting Started</h2>
 
 Getting started is quick and easy. The API can be loaded asynchronously by copying and pasting the following code into the HTML on your page.
-It is recommended that you place the code within the BODY tags, before all other code within the body, inorder to optimize perforamnce of the API.
+It is recommended that you place the code within the BODY tags, before all other code within the body, inorder to optimize performance of the API.
 
 You must provide your API Access Keys(appID and CommunityID) to establish a connection (Keys can be accessed in the API tools section of your
 Lend Experience admin page). Access to the API is restricted to verified domains. If you currently possess API Access Keys then your domain 
