@@ -42,8 +42,8 @@ To set-up the content widget place the following DIV tag where you would like th
 </div>
 
 ````
-The "le-root" div is the container for the content widget. Once the API has been asynchronously loaded it will detect the 
-existence of the "le-root" div. It will then load the content widget inside of the "le-root" div. The "le-root" div
+The "le-root" DIV is the container for the content widget. Once the API has been asynchronously loaded it will detect the 
+existence of the "le-root" DIV. It will then load the content widget inside of the "le-root" DIV. The "le-root" DIV
 can be styled, but keep in mind that the loaded "content widget" will have a minimum width of 300px.
 
 Questions?
