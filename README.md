@@ -3,8 +3,6 @@ lendexperience-js-sdk
 
 This is the official Javascript SDK for Lend Experience.
 
-<br/>
-
 Getting started is fast and simple. Just copy and paste the code below into the HTML on your page. To improve performance it is
 recommended that you place the following into ...
 
