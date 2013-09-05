@@ -12,7 +12,7 @@ You must provide your API Access Keys(appID and CommunityID) to establish a conn
 Lend Experience admin page). Access to the API is restricted to verified domains. If you currently possess API Access Keys then your domain 
 is most likely verified.
 
-````
+````javascript
 <script type="text/javascript">
   	// Load the SDK Asynchronously
 		(function(d){
@@ -37,7 +37,7 @@ is most likely verified.
 
 The content widget provides a customizable stream of experiences, opportunities and questions that can be embedded directly into your site.
 To set-up the content widget place the following DIV tag where you would like the "content widget" to appear on your page:
-````
+````html
 <div id="le-root">
 </div>
 
